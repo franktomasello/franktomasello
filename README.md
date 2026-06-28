@@ -1,11 +1,15 @@
 # Hi, I'm Frank Tomasello 👋
 
-Solutions Engineer focused on **AI-assisted development, application security, and cloud security**.
+Pre-Sales Solutions Engineer focused on **AI-assisted development, application security, DevSecOps, and cloud security**.
 
-🔭 **Currently building toward:** AI engineering, agent security, and cloud-native security (CNAPP). This profile is where I build in public as I go.
+I help translate technical capabilities into business value by connecting developer workflows, security outcomes, and enterprise platform strategy. My background spans software development, application security, cloud-native security, and customer-facing solution design.
 
-**Focus areas**
-- 🤖 AI-assisted development & AI/agent security
-- 🛡️ Application security — SAST, SCA, secrets, supply chain sec
-- ☁️ Cloud & cloud-native security
-- 🧰 Developer experience & pre-sales engineering
+🔭 **Currently building toward:** deeper expertise in AI engineering, agent security, DevSecOps, and cloud-native application protection. This profile is where I build in public, document what I’m learning, and sharpen the technical skills that make me a stronger Solutions Engineer.
+
+## Focus areas
+
+- 🤖 **AI-assisted development** — GitHub Copilot, developer productivity, agentic workflows, AI governance
+- 🛡️ **Application security** — SAST, SCA, secrets scanning, software supply chain security, vulnerability management
+- ☁️ **Cloud & cloud-native security** — CNAPP, container security, Kubernetes, runtime security, cloud risk
+- 🚀 **DevSecOps & platform engineering** — CI/CD, secure SDLC, developer experience, automation
+- 🧰 **Pre-sales solution engineering** — discovery, demos, technical validation, objection handling, value mapping
