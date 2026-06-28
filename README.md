@@ -1,4 +1,4 @@
-# Hi, I'm [Frank Tomasello] 👋
+# Hi, I'm Frank Tomasello 👋
 
 Solutions Engineer focused on **AI-assisted development, application security, and cloud security**.
 
