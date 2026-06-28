@@ -1,18 +1,11 @@
-## Hi there 👋
+# Hi, I'm [Frank Tomasello] 👋
 
-I'm Frank Tomasello — a software engineer and builder who enjoys tackling productivity challenges with clean, practical solutions. I work primarily with modern software tooling, automation, and developer workflows.
+Solutions Engineer focused on **AI-assisted development, application security, and cloud security**.
 
-<!--
-**franktomasello/franktomasello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Currently building toward:** AI engineering, agent security, and cloud-native security (CNAPP). This profile is where I build in public as I go.
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus areas**
+- 🤖 AI-assisted development & AI/agent security
+- 🛡️ Application security — SAST, SCA, secrets, supply chain
+- ☁️ Cloud & cloud-native security
+- 🧰 Developer experience & pre-sales engineering
