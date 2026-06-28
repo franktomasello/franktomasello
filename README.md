@@ -6,6 +6,6 @@ Solutions Engineer focused on **AI-assisted development, application security, a
 
 **Focus areas**
 - 🤖 AI-assisted development & AI/agent security
-- 🛡️ Application security — SAST, SCA, secrets, supply chain
+- 🛡️ Application security — SAST, SCA, secrets, supply chain sec
 - ☁️ Cloud & cloud-native security
 - 🧰 Developer experience & pre-sales engineering
